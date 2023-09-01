@@ -1,2 +1,5 @@
-package q2;public enum GameStatus {
+package q2;
+
+public enum GameStatus {
+INIT,START,END,WINNER,LOSE
 }
